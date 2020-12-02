@@ -1,0 +1,7 @@
+D:\DotNet\Git\Day3_prj3\Day3_prj3\bin\Debug\Day3_prj3.exe.config
+D:\DotNet\Git\Day3_prj3\Day3_prj3\bin\Debug\Day3_prj3.exe
+D:\DotNet\Git\Day3_prj3\Day3_prj3\bin\Debug\Day3_prj3.pdb
+D:\DotNet\Git\Day3_prj3\Day3_prj3\obj\Debug\Day3_prj3.csprojAssemblyReference.cache
+D:\DotNet\Git\Day3_prj3\Day3_prj3\obj\Debug\Day3_prj3.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\Day3_prj3\Day3_prj3\obj\Debug\Day3_prj3.exe
+D:\DotNet\Git\Day3_prj3\Day3_prj3\obj\Debug\Day3_prj3.pdb
