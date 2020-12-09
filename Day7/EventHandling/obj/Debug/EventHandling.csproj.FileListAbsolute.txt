@@ -1,0 +1,2 @@
+D:\DotNet\Git\Day7\EventHandling\obj\Debug\EventHandling.csprojAssemblyReference.cache
+D:\DotNet\Git\Day7\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache

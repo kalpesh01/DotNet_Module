@@ -1,0 +1,2 @@
+D:\DotNet\Git\Day5_ValueTypes\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\Day5_ValueTypes\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache

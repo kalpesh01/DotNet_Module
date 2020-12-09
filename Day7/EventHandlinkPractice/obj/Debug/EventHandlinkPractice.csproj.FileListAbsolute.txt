@@ -1,0 +1,7 @@
+D:\DotNet\Git\Day7\EventHandlinkPractice\bin\Debug\EventHandlinkPractice.exe.config
+D:\DotNet\Git\Day7\EventHandlinkPractice\bin\Debug\EventHandlinkPractice.exe
+D:\DotNet\Git\Day7\EventHandlinkPractice\bin\Debug\EventHandlinkPractice.pdb
+D:\DotNet\Git\Day7\EventHandlinkPractice\obj\Debug\EventHandlinkPractice.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\Day7\EventHandlinkPractice\obj\Debug\EventHandlinkPractice.exe
+D:\DotNet\Git\Day7\EventHandlinkPractice\obj\Debug\EventHandlinkPractice.pdb
+D:\DotNet\Git\Day7\EventHandlinkPractice\obj\Debug\EventHandlinkPractice.csprojAssemblyReference.cache

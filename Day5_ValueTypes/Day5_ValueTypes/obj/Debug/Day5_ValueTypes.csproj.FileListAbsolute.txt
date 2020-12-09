@@ -1,0 +1,7 @@
+D:\DotNet\Git\Day5_ValueTypes\Day5_ValueTypes\bin\Debug\Day5_ValueTypes.exe.config
+D:\DotNet\Git\Day5_ValueTypes\Day5_ValueTypes\bin\Debug\Day5_ValueTypes.exe
+D:\DotNet\Git\Day5_ValueTypes\Day5_ValueTypes\bin\Debug\Day5_ValueTypes.pdb
+D:\DotNet\Git\Day5_ValueTypes\Day5_ValueTypes\obj\Debug\Day5_ValueTypes.csprojAssemblyReference.cache
+D:\DotNet\Git\Day5_ValueTypes\Day5_ValueTypes\obj\Debug\Day5_ValueTypes.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\Day5_ValueTypes\Day5_ValueTypes\obj\Debug\Day5_ValueTypes.exe
+D:\DotNet\Git\Day5_ValueTypes\Day5_ValueTypes\obj\Debug\Day5_ValueTypes.pdb

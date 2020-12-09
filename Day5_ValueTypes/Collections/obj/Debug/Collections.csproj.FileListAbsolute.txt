@@ -1,0 +1,7 @@
+D:\DotNet\Git\Day5_ValueTypes\Collections\bin\Debug\Collections.exe.config
+D:\DotNet\Git\Day5_ValueTypes\Collections\bin\Debug\Collections.exe
+D:\DotNet\Git\Day5_ValueTypes\Collections\bin\Debug\Collections.pdb
+D:\DotNet\Git\Day5_ValueTypes\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\DotNet\Git\Day5_ValueTypes\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\Day5_ValueTypes\Collections\obj\Debug\Collections.exe
+D:\DotNet\Git\Day5_ValueTypes\Collections\obj\Debug\Collections.pdb
