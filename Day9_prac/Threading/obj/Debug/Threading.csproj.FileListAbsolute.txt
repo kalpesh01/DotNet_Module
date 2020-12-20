@@ -1,0 +1,7 @@
+D:\DotNet\Git\Day9_prac\Threading\bin\Debug\Threading.exe.config
+D:\DotNet\Git\Day9_prac\Threading\bin\Debug\Threading.exe
+D:\DotNet\Git\Day9_prac\Threading\bin\Debug\Threading.pdb
+D:\DotNet\Git\Day9_prac\Threading\obj\Debug\Threading.csprojAssemblyReference.cache
+D:\DotNet\Git\Day9_prac\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\Day9_prac\Threading\obj\Debug\Threading.exe
+D:\DotNet\Git\Day9_prac\Threading\obj\Debug\Threading.pdb

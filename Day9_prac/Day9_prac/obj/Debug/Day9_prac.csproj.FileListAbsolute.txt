@@ -1,0 +1,7 @@
+D:\DotNet\Git\Day9_prac\Day9_prac\bin\Debug\Day9_prac.exe.config
+D:\DotNet\Git\Day9_prac\Day9_prac\bin\Debug\Day9_prac.exe
+D:\DotNet\Git\Day9_prac\Day9_prac\bin\Debug\Day9_prac.pdb
+D:\DotNet\Git\Day9_prac\Day9_prac\obj\Debug\Day9_prac.csprojAssemblyReference.cache
+D:\DotNet\Git\Day9_prac\Day9_prac\obj\Debug\Day9_prac.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\Day9_prac\Day9_prac\obj\Debug\Day9_prac.exe
+D:\DotNet\Git\Day9_prac\Day9_prac\obj\Debug\Day9_prac.pdb

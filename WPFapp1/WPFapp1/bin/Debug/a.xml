@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <Ems diffgr:id="Ems1" msdata:rowOrder="0">
+      <empid>1</empid>
+      <empName>lokesh</empName>
+      <empSalary>3000</empSalary>
+      <deptId>101</deptId>
+    </Ems>
+    <Ems diffgr:id="Ems2" msdata:rowOrder="1">
+      <empid>2</empid>
+      <empName>jayesh</empName>
+      <empSalary>2000</empSalary>
+      <deptId>102</deptId>
+    </Ems>
+    <Ems diffgr:id="Ems3" msdata:rowOrder="2">
+      <empid>3</empid>
+      <empName>sudarshan</empName>
+      <empSalary>6000</empSalary>
+      <deptId>102</deptId>
+    </Ems>
+    <Ems diffgr:id="Ems4" msdata:rowOrder="3">
+      <empid>4</empid>
+      <empName>kalpesh</empName>
+      <empSalary>5000</empSalary>
+      <deptId>102</deptId>
+    </Ems>
+    <Ems diffgr:id="Ems5" msdata:rowOrder="4">
+      <empid>5</empid>
+      <empName>rahul wagh</empName>
+      <empSalary>4023</empSalary>
+      <deptId>101</deptId>
+    </Ems>
+    <Ems diffgr:id="Ems6" msdata:rowOrder="5">
+      <empid>6</empid>
+      <empName>mohit</empName>
+      <empSalary>1234</empSalary>
+      <deptId>101</deptId>
+    </Ems>
+    <dpt diffgr:id="dpt1" msdata:rowOrder="0">
+      <deptId>1</deptId>
+      <deptName>it</deptName>
+    </dpt>
+    <dpt diffgr:id="dpt2" msdata:rowOrder="1">
+      <deptId>101</deptId>
+      <deptName>cs</deptName>
+    </dpt>
+    <dpt diffgr:id="dpt3" msdata:rowOrder="2">
+      <deptId>102</deptId>
+      <deptName>elec</deptName>
+    </dpt>
+  </NewDataSet>
+</diffgr:diffgram>

@@ -1,0 +1,15 @@
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\bin\Debug\CrudOpWithGrid.exe.config
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\bin\Debug\CrudOpWithGrid.exe
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\bin\Debug\CrudOpWithGrid.pdb
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid.csprojAssemblyReference.cache
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\MainWindow.g.cs
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\App.g.cs
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid_MarkupCompile.cache
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid_MarkupCompile.lref
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\MainWindow.baml
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid.g.resources
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid.Properties.Resources.resources
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid.csproj.GenerateResource.cache
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid.exe
+D:\DotNet\Git\WPFapp1\CrudOpWithGrid\obj\Debug\CrudOpWithGrid.pdb
