@@ -1,0 +1,7 @@
+D:\DAC\CDAC\DotNet_Module(Vikram Sulakhe)\Day10\Day10\WorkingWithTasks\bin\Debug\WorkingWithTasks.exe.config
+D:\DAC\CDAC\DotNet_Module(Vikram Sulakhe)\Day10\Day10\WorkingWithTasks\bin\Debug\WorkingWithTasks.exe
+D:\DAC\CDAC\DotNet_Module(Vikram Sulakhe)\Day10\Day10\WorkingWithTasks\bin\Debug\WorkingWithTasks.pdb
+D:\DAC\CDAC\DotNet_Module(Vikram Sulakhe)\Day10\Day10\WorkingWithTasks\obj\Debug\WorkingWithTasks.csprojAssemblyReference.cache
+D:\DAC\CDAC\DotNet_Module(Vikram Sulakhe)\Day10\Day10\WorkingWithTasks\obj\Debug\WorkingWithTasks.csproj.CoreCompileInputs.cache
+D:\DAC\CDAC\DotNet_Module(Vikram Sulakhe)\Day10\Day10\WorkingWithTasks\obj\Debug\WorkingWithTasks.exe
+D:\DAC\CDAC\DotNet_Module(Vikram Sulakhe)\Day10\Day10\WorkingWithTasks\obj\Debug\WorkingWithTasks.pdb
